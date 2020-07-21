@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.banner-1{
+    height: 80vw;
+}
+
+.banner-1 img{
+    width: 100%;
+}
+
+.eba-cheguei{
+    height: 24vw;
+    background-color: #ffe4cf;
+}
+
+.eba-cheguei img{
+    width: 20vw;
+    height: 14vw;
+}
+
+.eba-cheguei-2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 17vw;
+    margin-top: -1vw;
+}
+
+.button-cheguei-1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 4vw;
+}
+
+.button-cheguei-2{
+    background-color: #e7beba;
+    width: 12vw;
+    height: 4vw;
+    font-size: 1.2vw;
+    font-family: 'Sora', sans-serif;
+    color: #05275a;
+    border: none;
+    cursor: pointer;
+}

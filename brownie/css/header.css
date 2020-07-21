@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+   
+/* HEADER */
+
+#header-1{
+    background-color: #ffe4cf;
+    height: 11vw;
+    width: 100%;
+    display: flex;
+}
+
+.logo-omb{
+    width: 15vw;
+    height: 10.5vw;
+}
+
+.logo-img{
+    width: 21vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-words{
+    width: 37vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.header-words a{
+    text-decoration: none;
+}
+
+.header-words-1{
+    font-size: 1.5vw;
+    font-family: 'Sora', sans-serif;
+    color: #000000;
+    cursor: pointer;
+}

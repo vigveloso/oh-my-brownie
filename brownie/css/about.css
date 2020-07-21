@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#about-1{
+    display: flex;
+    justify-content: center;
+    height: 32vw;
+    margin-top: 7vw;
+}
+
+.about-text{
+    background-color: #e7beba;
+    font-family: 'Sora', sans-serif;
+    color: #05275a;
+    height: 5vw;
+    width: 25vw;
+    font-size: 1.5vw;
+}
+
+.about-text h1{
+    margin-left: 1vw;
+    margin-top: 1vw;
+}
+
+.about-text-1{
+
+}
+
+.about-photo{
+    height: 30vw;
+}
+
+.about-photo img{
+    width: 30vw;
+    height: 30vw;
+}
+
+.about-text-2{
+    height: 21vw;
+    width: 23.5vw;
+    font-size: 1.2vw;
+    margin-top: 2vw;
+    text-align: right;
+    line-height: 2vw;
+}

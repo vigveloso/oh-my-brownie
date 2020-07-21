@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#order-1{
+    background-color: #ffe4cf;
+    height: 50vw;
+}
+
+#order-1 h1{
+    font-family: 'Sora', sans-serif;
+    color: #05275a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 9vw;
+    font-size: 2.5vw;
+}
+
+.form-1{
+    background-color: #ffe4cf;
+    border: 0 none;
+    font-family: 'Sora', sans-serif;
+    color: #05275a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 36vw;
+}
+
+.form-1 label{
+    margin-bottom: 0.5vw;
+}
+
+#form-omb{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.order-form, .name-form, .phone-form, .email-form{
+    border: 0 none;
+    background-color: #fff1e7;
+    width: 20vw;
+}
+
+.name-form, .phone-form, .email-form{
+    height: 2vw;
+}
+
+.btn-form{
+    color: #05275a;
+    border: 0 none;
+    background-color: #e7beba;
+    font-family: 'Sora', sans-serif;
+    font-size: 1.3vw;
+    width: 12vw;
+    height: 4vw;
+    cursor: pointer;
+}
+
+.btn-form-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 8vw;
+}
